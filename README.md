@@ -1,4 +1,5 @@
 # aviftojpg
+[![Version](https://img.shields.io/npm/v/aviftojpg.svg)](https://www.npmjs.com/package/aviftojpg)
 CLI to convert AVIF files to JPEG files
 
 ```sh
