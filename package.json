@@ -1,5 +1,5 @@
 {
-  "name": "aviftojpg",
+  "name": "@alfe/aviftojpg",
   "version": "1.0.0",
   "description": "CLI to convert AVIF files to JPEG files",
   "author": {
@@ -7,7 +7,12 @@
     "email": "alfe10251@gmail.com",
     "url": "https://alfebelow.com/"
   },
+  "repository": "git://github.com/alfe/aviftojpg.git",
   "license": "MIT",
+  "keywords": ["avif"],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "scripts": {
     "start": "node ./bin/aviftojpg.js ."
   },
