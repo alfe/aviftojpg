@@ -1,0 +1,22 @@
+{
+  "name": "aviftojpg",
+  "version": "1.0.0",
+  "description": "CLI to convert AVIF files to JPEG files",
+  "author": {
+    "name": "alfe",
+    "email": "alfe10251@gmail.com",
+    "url": "https://alfebelow.com/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./bin/aviftojpg.js ."
+  },
+  "bin": {
+    "aviftojpg": "bin/aviftojpg.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "sharp": "^0.30.7"
+  }
+}
