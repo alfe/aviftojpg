@@ -6,7 +6,7 @@ $ npx aviftojpg .
 ```
 
 ```sh
-$ npx aviftojpg help
+$ npx aviftojpg --help
 Usage: aviftojpg <dir> [options]
 
 CLI to convert AVIF files to JPEG files
