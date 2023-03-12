@@ -1,6 +1,6 @@
 {
   "name": "aviftojpg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI to convert AVIF files to JPEG files",
   "author": {
     "name": "alfe",
@@ -23,7 +23,7 @@
   },
   "type": "module",
   "dependencies": {
-    "commander": "^9.3.0",
-    "sharp": "^0.30.7"
+    "commander": "^10.0.0",
+    "sharp": "^0.31.3"
   }
 }
